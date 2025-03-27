@@ -1,0 +1,2 @@
+This is the main file for the example_main repository.
+It can be used to demonstrate how to work with submodules.
